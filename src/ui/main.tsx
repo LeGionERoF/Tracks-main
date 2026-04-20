@@ -87,7 +87,7 @@ type TypeOst = {
 }
 
 
-
+//hello
 
     const [palm, setPalm] = useState<TypeOst | null>(null)
 
